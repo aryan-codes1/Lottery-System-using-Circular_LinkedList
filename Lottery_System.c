@@ -211,7 +211,7 @@ int main()
                 printf("The Winner is:\n");
                 printf("\n===================================\n");
                 display(head);
-                printf("Congratulations on winning 1Million !!\n");
+                printf("Congratulations on winning 1 Million !!\n");
                 printf("===================================\n");
             }
             else
