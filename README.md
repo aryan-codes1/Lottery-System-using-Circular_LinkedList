@@ -57,6 +57,6 @@ To get started with the Pegasus Mall 1 Million Lottery System, follow these step
 Contributions to this project are welcome! If you have ideas for improvements or find any issues, please open an issue or submit a pull request. Make sure to follow the code of conduct and respect the project's licensing.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/aryan-codes1/Pegasus-Mall-1-Million-Lottery-System/blob/7c54bf615e84974c6854c3b4e60acb06e01c90a8/LICENSE) file for details.
 
 Thank you for using the Pegasus Mall 1 Million Lottery System. Enjoy the excitement of the game and may the luckiest participant win the 1 million prize!
