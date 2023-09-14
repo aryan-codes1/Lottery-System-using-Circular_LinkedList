@@ -39,7 +39,7 @@ To get started with the Pegasus Mall 1 Million Lottery System, follow these step
     gcc Lottery_System.c -o Lottery_System
 4. Run the program:
     ```bash
-    ./lottery
+    ./Lottery_System
 ## Usage
 - **Adding Participants**: When you run the program, you can choose to add participants by providing their ticket number and name.
 
